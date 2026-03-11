@@ -8,11 +8,11 @@
 #### Renzo Martini https://github.com/Renzo-Martini
 #### Luca Silioni https://github.com/lucasilioni
 #### Lucas Vega https://github.com/lucassvegaa
-|Nombre|Apellido|Número|Link|Correo|
+|Nombre|Apellido|Número|Link|Correo electrónico|
 |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
-|Enzo|Carbone|
-|Pedro|Farjo|
-|Ignacio|March|
-|Renzo|Martini|
-|Luca|Silioni|
-|Lucas|Vega|
+|Enzo|Carbone|2616060762|https://github.com/Enzocarbone10|enzocarbone25@gmail.com|
+|Pedro|Farjo|2615712104|https://github.com/pedro-farjo|pedrofarjo@gmail.com|
+|Ignacio|March|2612416022|https://github.com/IgnacioMarch|nachomarch0303@gmail.com|
+|Renzo|Martini|2616948567|https://github.com/Renzo-Martini|renzo.martiniur@gmail.com|
+|Luca|Silioni|2613035542|https://github.com/lucasilioni|lucasilioni05@gmail.com|
+|Lucas|Vega|2616412711|https://github.com/lucasilioni|lucasvega762@gmail.com|
