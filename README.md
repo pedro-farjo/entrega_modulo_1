@@ -17,4 +17,3 @@
 |Luca|Silioni|2613035542|https://github.com/lucasilioni/|lucasilioni05@gmail.com|
 |Lucas|Vega|2616412711|https://github.com/lucassvegaa/modulo_1|lucasvega762@gmail.com|
 
-.
