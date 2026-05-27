@@ -14,7 +14,7 @@
 |Nombre|Apellido|Número|Link|Correo electrónico|
 |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 |Enzo|Carbone|2616060762|https://github.com/Enzocarbone10/|enzocarbone25@gmail.com|
-|Pedro|Farjo|2615712104|https://github.com/pedro-farjo/|pedrofarjo@gmail.com|
+|Pedro|Farjo|2615712104|https://github.com/pedro-farjo/modulo_3|pedrofarjo@gmail.com|
 |Ignacio|March|2612416022|https://github.com/IgnacioMarch/Modulo-3|nachomarch0303@gmail.com|
 |Renzo|Martini|2616948567|https://github.com/Renzo-Martini/|renzo.martiniur@gmail.com|
 |Luca|Silioni|2613035542|https://github.com/lucasilioni/modulo-3.git|lucasilioni05@gmail.com|
