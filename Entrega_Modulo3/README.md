@@ -7,7 +7,7 @@
 #### Profe https://github.com/ricardorpalma
 #### Enzo Carbone https://github.com/Enzocarbone10
 #### Pedro Farjo https://github.com/pedro-farjo
-#### Ignacio March https://github.com/IgnacioMarch/Modulo-3.git
+#### Ignacio March https://github.com/IgnacioMarch
 #### Renzo Martini https://github.com/Renzo-Martini
 #### Luca Silioni https://github.com/lucasilioni
 #### Lucas Vega https://github.com/lucassvegaa
